@@ -8,3 +8,4 @@ BMI = int(w) + float(h) ** 2
 
 print(BMI)
 #print(type(h2))
+
