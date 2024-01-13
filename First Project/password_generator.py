@@ -33,4 +33,5 @@ random.shuffle(password)
 aa =""
 for xx in password:
         aa += xx
-print(f"your new pass is \n{aa}")
+print(f"your new pass is \n \n{aa}")
+print("\n") # gives space in console i.e line break
